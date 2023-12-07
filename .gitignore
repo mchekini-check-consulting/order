@@ -13,3 +13,6 @@
 
 ### VS Code ###
 **/.vscode/
+
+postgresql_data
+migrations
